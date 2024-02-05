@@ -12,11 +12,6 @@ Nesta seção, você encontrará portais (pastas) para diferentes dimensões (li
 
 Dentro de cada pasta, as soluções estão organizadas por desafios, cada um contendo seu próprio conjunto de mistérios e aprendizados.
 
-## 🗺 Desafios Resolvidos
-
-Aqui, é onde a magia acontece. Cada pasta linguística abriga as aventuras e desafios que enfrentei:
-### Java
-
 ## 💡 Contribuições: Junte-se à Expedição
 
 Esta jornada é contínua, e novas descobertas são sempre bem-vindas. Se deseja contribuir com soluções em novas linguagens ou otimizar as existentes, seu saber é um tesouro valioso para esta jornada.
